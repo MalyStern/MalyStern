@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! 👋 Welcome to my GitHub profile. I'm [Your Name], a passionate software developer with a love for coding, learning, and sharing knowledge.
+Hi there! 👋 Welcome to my GitHub profile. I'm Maly, a passionate software developer with a love for coding, learning, and sharing knowledge.
 Here are some of the languages and tools I work with:
  
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
